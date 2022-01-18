@@ -2,11 +2,12 @@
 TOKEN = "767660137:AAE6WBNx8BCd0uCKBl0tOGo-6IxvYPMtQ_k"
 
 view_sport = ['Футбол']
-view_commands = ['/help - список команд', '/list - список подписок', '/add - добавить подписку', '/remove - удалить подписку']
+view_commands = ['/help - список команд', '/list - список подписок', '/add - добавить подписку',
+                 '/remove - удалить подписку']
 
 user_dict = {}
 
-link_db = "dbname='Bot' user='postgres' password='1111' host='localhost' port='5432'"
+link_db = "dbname='Bot' user='postgres' password='0122' host='localhost' port='5432'"
 
 
 class User:
